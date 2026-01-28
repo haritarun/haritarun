@@ -9,7 +9,7 @@
 
 ### 🚀 About Me
 - 💻 Full Stack Developer (MERN)
-- 📫 Reach me at: **tarunbommana798email@gmail.com**
+- 📫 Reach me at: **tarunbommana798@gmail.com**
 
 ---
 
